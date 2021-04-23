@@ -1,0 +1,11 @@
+WDSP by Warren Pratt, NR0V
+DSP Library originally written for Windows
+Ported to Linux and Android by John Melton g0orx/n6lyt
+
+The original sources can be found at:
+
+  https://github.com/TAPR/OpenHPSDR-Thetis/tree/master/Project%20Files/Source/wdsp
+
+This version is mainly used with the embedded SDR transceiver application for the Red Pitaya board:
+
+  http://pavel-demin.github.io/red-pitaya-notes/sdr-transceiver-emb
